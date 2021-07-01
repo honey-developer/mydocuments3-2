@@ -1,0 +1,3 @@
+minor1-https://sourceforge.net/projects/net-simulator/
+
+https://www.javatpoint.com/computer-network-switching-techniques switching
